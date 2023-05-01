@@ -1,0 +1,68 @@
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.exe
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.deps.json
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.runtimeconfig.json
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.dll
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.pdb
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.csproj.AssemblyReference.cache
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.Form1.resources
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.csproj.GenerateResource.cache
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.AssemblyInfoInputs.cache
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.AssemblyInfo.cs
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.csproj.CoreCompileInputs.cache
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.dll
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\refint\DeepoceanLARS.dll
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.pdb
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.genruntimeconfig.cache
+C:\Users\Bruker\source\repos\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\ref\DeepoceanLARS.dll
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.exe
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.deps.json
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.runtimeconfig.json
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.dll
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.pdb
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.csproj.AssemblyReference.cache
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.Form1.resources
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.csproj.GenerateResource.cache
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.AssemblyInfoInputs.cache
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.AssemblyInfo.cs
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.csproj.CoreCompileInputs.cache
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.dll
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\refint\DeepoceanLARS.dll
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.pdb
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.genruntimeconfig.cache
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\ref\DeepoceanLARS.dll
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.exe
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.deps.json
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.runtimeconfig.json
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.dll
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.pdb
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.csproj.AssemblyReference.cache
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.Form1.resources
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.csproj.GenerateResource.cache
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.AssemblyInfoInputs.cache
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.AssemblyInfo.cs
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.csproj.CoreCompileInputs.cache
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.dll
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\refint\DeepoceanLARS.dll
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.pdb
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.genruntimeconfig.cache
+C:\Users\Ingeb\OneDrive - Høgskulen på Vestlandet\6 semester\Bachelor oppgave\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\ref\DeepoceanLARS.dll
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.exe
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.deps.json
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.runtimeconfig.json
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.dll
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\bin\Debug\net6.0-windows\DeepoceanLARS.pdb
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.csproj.AssemblyReference.cache
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.Form1.resources
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.csproj.GenerateResource.cache
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.AssemblyInfoInputs.cache
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.AssemblyInfo.cs
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.csproj.CoreCompileInputs.cache
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.dll
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\refint\DeepoceanLARS.dll
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.pdb
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\DeepoceanLARS.genruntimeconfig.cache
+C:\Users\Ingeb\Downloads\DeepoceanLARS (4)\DeepoceanLARS (3)\DeepoceanLARS (2)\DeepoceanLARS\DeepoceanLARS\obj\Debug\net6.0-windows\ref\DeepoceanLARS.dll
